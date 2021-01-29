@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/danilshvalov/dev/c-plus-plus/algorithms/build",
-  "command": "/bin/g++-10    -g   -o CMakeFiles/algorithms.dir/main.cpp.o -c /home/danilshvalov/dev/c-plus-plus/algorithms/main.cpp",
-  "file": "/home/danilshvalov/dev/c-plus-plus/algorithms/main.cpp"
-}
-]
